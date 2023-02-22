@@ -15,11 +15,11 @@ layout: home
             </figure>
 
             <h2> Super Bowl Champs: </h2>
-       {% for sport in site.football2023 % } 
-            <h3>{{football2023.title}}</h3>
-            <p><img src="{{ football2023.image }}" alt="Travis Kelce celebrating after Super Bowl win" /></p>
-            <p>{{ football2023.content }}</p>
-            <p> Category: {{ football2023.category }}</p>
+       {% for sport in site.sports % } 
+            <h3>{{sport.title}}</h3>
+            <p><img src="{{ sport.image }}" alt="Travis Kelce celebrating after Super Bowl win" /></p>
+            <p>{{ sport.content }}</p>
+            <p> Category: {{ sport.category }}</p>
 
             
             {%- include footer.html -%}
