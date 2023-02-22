@@ -15,11 +15,12 @@ layout: home
             </figure>
 
             <h2> Super Bowl Champs: </h2>
-       {% for sport in site.sports % } 
-            <h3>{{sports.title}}</h3>
-            <p><img src="{{ sports.image }}" alt="Travis Kelce celebrating after Super Bowl win" /></p>
-            <p>{{ sports.content }}</p>
-            <p> Category: {{ sports.category }}</p>
+       {% for sport in site.sports %} 
+
+            <h3>{{sport.title}}</h3>
+            <p><img src="{{ sport.image }}" alt="Travis Kelce celebrating after Super Bowl win" /></p>
+            <p>{{ sport.content }}</p>
+            <p> Category: {{ sport.category }}</p>
 
             
             {%- include footer.html -%}
