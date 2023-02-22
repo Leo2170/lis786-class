@@ -15,9 +15,7 @@ layout: home
             </figure>
 
             <h2> Super Bowl Champs: </h2>
-       {% for sport in site.sports %} 
-
-            <h3>{{sport.Title}}</h3>
+            {% for sport in site.sports %} 
             <p><img src="{{ sport.Image }}" alt="Travis Kelce celebrating after Super Bowl win" /></p>
             <p>{{ sport.Content }}</p>
             <p> Category: {{ sport.Category }}</p>
