@@ -13,6 +13,14 @@ layout: home
             <img alt="Picture of Chicago, Illinois" src= "https://c2.staticflickr.com/8/7175/6503234095_f7b6ddf56b_b.jpg" />
                 <figcaption> The famous bean - Located in downtown Chicago. </figcaption>
             </figure>
+
+            <h2> Super Bowl Champs: </h2>
+       {% for sport in site.football2023 % } 
+            <h3>{{football2023.title}}</h3>
+            <p><img src="{{ football2023.image }}" alt="Travis Kelce celebrating after Super Bowl win" /></p>
+            <p>{{ football2023.content }}</p>
+            <p> Category: {{ football2023.category }}</p>
+
             
             {%- include footer.html -%}
 </body>

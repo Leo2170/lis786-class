@@ -1,12 +1,12 @@
 title: SportsZone
 theme: minima
 collections:
-  collection:
+  sports:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "sports"
     values:
-      layout: collection_item
+      layout: sport
