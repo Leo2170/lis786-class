@@ -9,6 +9,7 @@ my_variable: Tom Brady in his last season as a Bucanner.
 <img src=" {{ page.img_url }}" alt=" GOAT ">
 This is my page about the NFL (National Football League)
 
+## Recent News
 
 In recent news, we just had the draft conclude and like it's been speculated all year long, Bryce Young was the no.1 pick selected by the Carolina Panthers. The Houston Texans also selected a QB. the 2nd most popular being CJ Stroud. 
 

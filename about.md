@@ -3,21 +3,14 @@ title: About
 layout: page
 permalink: /about
 ---
-This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
-this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
+Here at SportsZone, we just love sports. We talk about everything that happens and want to have a platform in which everyone can voice their opinion and have a civil discussion. You go to Twitter and under every post, there's people just insulting each other, completely forgetting what they were discussing at one point. It will be heavily moderated to avoid those types of interactions. 
 
-## This is what an h2 element looks like in Markdown
+## The Founder:
 
-Paragraphs are just text without `<p>` tags. Take a look at my unordered (bulleted) list below:
+Some stuff about me - 
 
-- list item one
-- list item two
-- list item three
+- Currently in college, about to finish Junior year. 
+- Am 20 years old, turning 21 in August. 
+- Favorite team in the NFL is the Bears and in soccer Barcelona. 
 
-And here's an ordered (numbered) list:
 
-1. List item one
-1. list item two
-1. list item three
-
-(You can use any number and the script will convert the numbers to the correct ordering.)
