@@ -13,3 +13,6 @@ In the EPL, we had a marquee matchup being Arsenal vs Manchester City which was 
 
 <img src="https://th.bing.com/th?id=OIF.%2b%2b3uz8qQdVklQcYCEVJzug&pid=ImgDet&rs=1">
 
+On Sunday, we were also treated to a high scoring game between Liverpool and Tottenham. Liverpool turned it around in around 15 minutes, and they were down 2-0 to go up 3-2. In the 93rd minute, Richarlison scores off a free kick to tie the game 3-3. In the end though, it didn't matter as Liverpool scored right after in the 94th minute, and they took the win in a devastating loss for the Spurs. 
+
+<img src="https://th.bing.com/th/id/OIF.MWWsnchWTPC6SH6ulrmblQ?pid=ImgDet&rs=1">
