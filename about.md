@@ -13,4 +13,4 @@ Some stuff about me -
 - Am 20 years old, turning 21 in August. 
 - Favorite team in the NFL is the Bears and in soccer Barcelona. 
 
-<img src="https://th.bing.com/th/id/R.233c54c56b0e4b8bf79d88cb64bba28f?rik=HP8D2Pyp2Kwo%2fA&pid=ImgRaw&r=0">
+<img src="https://i.etsystatic.com/6788046/r/il/7440a1/3397146612/il_fullxfull.3397146612_sbh8.jpg">
